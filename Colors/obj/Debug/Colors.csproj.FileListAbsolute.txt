@@ -1,0 +1,17 @@
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\bin\Debug\Colors.exe
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\bin\Debug\Colors.pdb
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.g.resources
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.exe
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.pdb
+E:\Dropbox\!Coding\All_in_one\Colors\Colors\bin\Debug\Colors.exe.config
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Colors\Colors\bin\Debug\Colors.exe.config
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Colors\Colors\obj\Debug\Colors.pdb
